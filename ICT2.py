@@ -1,0 +1,6 @@
+l=input("Enter the legnth of the rectangle:-")
+b=input("Enter the width of the rectangle:-")
+area=int(l)*int(b)
+perimeter=2*(int(l)+int(b))
+print("The Area of the rectangle is:-" + str(area))
+print("The Perimeter of the rectangle is:-" + str(perimeter))
